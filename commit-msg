@@ -20,6 +20,7 @@ if ! [[ $(cat "$1") =~ ^((chore|docs|feat|fix|perf|refactor|style|ci|test|wip)(\
   printf "${yellow}     │${green}      └─> Scope: common|compiler|authentication|core|\n"
   printf "${yellow}     │                                                                                          \n"
   printf "${yellow}     └─> Type: chore, docs, feat, fix, refactor, style, test or wip.\n"
+  printf "\n"
   exit 1
 fi
 
