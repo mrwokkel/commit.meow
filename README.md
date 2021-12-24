@@ -15,7 +15,7 @@ See how a minor change to your commit message style can make you a better progra
      │      │
      │      └─> Scope (optional): eg. common, compiler, authentication, core
      │                                                                                          
-     └─> Type: chore, docs, feat, fix, refactor, style, or test.
+     └─> Type: chore, docs, feat, fix, refactor, style, test or wip.
      
 ```
 
